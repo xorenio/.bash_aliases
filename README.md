@@ -50,5 +50,5 @@ $ alias dc-mytop='mytop -h 127.0.0.1 -u root -p password'
 
 ### ports
 ```bash
-$ alias ports='netstat -lnF4'
+$ alias ports='netstat -lnF4' # -tulpn
 ```
